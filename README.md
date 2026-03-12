@@ -29,8 +29,8 @@ Python
 Pandas  
 Matplotlib  
 Seaborn  
-SQL  
-Power BI / Tableau  
+SQL
+Power BI/Tableau
 
 ## Project Structure
 
@@ -39,3 +39,7 @@ notebooks – analysis notebooks
 sql_queries – SQL analysis  
 dashboards – visual dashboards  
 docs – dataset documentation
+##Deployment
+Deployed on Streamlit
+
+
