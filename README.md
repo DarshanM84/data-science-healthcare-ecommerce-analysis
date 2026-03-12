@@ -17,9 +17,11 @@ The project demonstrates the complete data science workflow:
 
 ### Heart Disease Dataset
 Used to analyze medical indicators associated with cardiovascular diseases.
+Link:https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?utm_source=chatgpt.com
 
 ### Brazilian E-Commerce Dataset
 Real marketplace dataset containing orders, customers, sellers, and product data.
+Link:https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ## Tools Used
 
